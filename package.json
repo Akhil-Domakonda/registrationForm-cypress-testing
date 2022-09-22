@@ -1,0 +1,18 @@
+{
+  "name": "testing",
+  "version": "1.0.0",
+  "description": "ss",
+  "main": "index.js",
+  "scripts": {
+    "test": "cypress open"
+  },
+  "author": "akhil",
+  "license": "ISC",
+  "devDependencies": {
+    "cypress": "^10.8.0",
+    "typescript": "^4.8.3"
+  },
+  "dependencies": {
+    "cypress-slow-down": "^1.2.1"
+  }
+}
